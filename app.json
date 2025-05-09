@@ -3,7 +3,7 @@
   "description": "CypherX, your friendly assistant!",
   "logo": "https://i.ibb.co/nqsRcKDB/Xploader4.jpg",
   "keywords": [],
-  "repository": "https://github.com/Dark-Xploit/CypherX",
+  "repository": "https://github.com/Eimo384/CypherX",
   "stack": "container",
   "addons": [
     {
@@ -16,7 +16,7 @@
 "env": {
   "SESSION_ID": {
     "description": "Must begin with 'XPLOADER-BOT:~' or 'CYPHER-X:~'.",
-    "value": "",
+    "value": "CYPHER-X:~UEsDBBQAAAgIAM6eqVp7em5kRAUAAIkJAAAKAAAAY3JlZHMuanNvbq1VWY+rOBP9KyO*kjsQdiK19AGBJCRkJ4GM5sGAIe6wBbOEXPV**0TSrb6a5U6PNDxZxj51qurU8XeQ5ZigOerA6DsoStzACvXLqisQGAGtjiJUggEIYQXBCGwswd9Nj*5OhKv1hJuQneOyznjl6uJwU6JkL4szqZWCpRG8gLcBKGo*wcFPAA2hPS+21OaUr8Z72jdjzVJgu4xuJmoaM55RtCId5AqjffsC3npEiEucxUZxRikqYTJH3Rri8mv0V+aCcM1Kcu9ulIw5aictxFU8niTS9kxP3OM6L8p7lYdZ5nyN*nlBrYKuCCZ36TTRfKvy+SOH79eIXS8IOUniq3xO8+p6fTWe9AmOMxTOQpRVuOq+XHfKXoRovCWpc7zKHoqv1NxXd*LV2m0Mz2sX8Vrfors1Ph2+WPfQZ7rdWtydlMOlZlS6vk+aDa2zsOuiJhmONYmCQUy2c8f+kfi6*NDK5d*UvdbStV5NG8FPLRJbFzIv8Fi+h11ts3hyDMfBeWY3y1Zyv1h3s6PvN4smMnd3nFBbZVfBOL6u7Ii65SdKU8cMRV3i0LGZ4JM+rOryZyxd27ifJvv5elkWrT9z50sNW4tt7tGba7znlxafD+UDxXOVG2wF8eIyylDDrDXvHLz3lirt81t3+Uo3TmNb50tFOYytty+PjC6om4VgNHwbgBLFmFQlrHCe9XuswA0ADJsdCkpUPcoLrP304DKnuj5MU2g3Li7Ww8O2ncZ3YZbInDw+rHj+aqVnLngBA1CUeYAIQeEUkyovOxsRAmNEwOi3R6f6pEuU5hWycAhGgBV4SVFYkeGG3P*Ir+0ZVgQWxa8ZqsAARGWe2giMqrJGA*C4ILOCKGsmb3CSoDMcYyoyz2mCpEqcZnCK2aeYPoPucYpIBdMCjIYSL8osw4vs2+C*4WEIkiwxuszzgj4WNEEeShIvDkVVMk1ZE7V*5PH7AGToVj113FdfYgYgwiWpnKwukhyGHyL*+AmDIK+zatdlgd4vUAlGw89tVFU4i0mfWZ3BMjjjBul9HmAUwYSgtwEIUYMD1OOBlT3F+JVd7Y7sYcMthYsikWPbd*CcZ88jkswEvC+ib6LMM994XuS*yVwofBN8KCtIgUPoC6Avx9NC+jt*q+jtNDnZwXJMHy7KhhGzi3CpffaqwPnlocqnFFGJwo8q+zC41MU+v6DsJ7jzyDND6lDM5sPrWbp5eRnvAmUa2J3xA+5T4mD0*dO29Tzs8baeJJuyqIG+W32cP6lhxAl*FkTyOCYywpDluaHM8grP9wf7*QHIYI8FDJzmvxhh*Uu*6Mm8d6oPE6IK4oSAEdAXpceJwcRYiiIVqJOJasSqHqvgs7MfjvGcSJq3XSPcE+96YARBVWd7g8x2XtM0tDbuTKm4Xy3YtkfPeUzkH0F63qmQ26oA9ZVSud4Bs7M0d92WUNalKda67oZwGmq6f+LledLSMWWdp4XjM+RGW0x+pwKtcxZ3j5m28F5WmStkwkLbvPTRngr7MViT6KxztF9ZN+T17tVcJa4nU8s1PhC0RGcvoliNnssXwYSTlSP4y3x*xTNHUribKTPw4BFR3SC33Hc70z8p0n5P3TX16WUPL03e3zD87jJPPUYYPZ6E9178Y0c*R4N5G*yA8f7I*I38tIgam7epI03mSbhCG1U3bgvdSBeSRLcb+YzEQMRHYpupOQVv*cwXCayivEzBCMAsLPOHYMq87md3lkX5T4Lp6mymv2eeQFKpn37wFxYjKM9T6zIvppCcwQhwW+XEKb3UO7UodhWsPuwFqP2n7yPw9n9QSwECFAMUAAAICADOnqlae3puZEQFAACJCQAACgAAAAAAAAAAAAAApIEAAAAAY3JlZHMuanNvblBLBQYAAAAAAQABADgAAABsBQAAAAA=",
     "required": false
   }
 },
